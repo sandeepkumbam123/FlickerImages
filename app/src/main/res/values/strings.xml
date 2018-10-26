@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flicker Assignment</string>
+    <string name="search">search</string>
+    <string name="search_images">Search Images</string>
+    <string name="search_result">Searching for results</string>
+    <string name="input">Please enter some keywords to search images</string>
+    <string name="response_error">Not able to fetch results for this search</string>
+</resources>
